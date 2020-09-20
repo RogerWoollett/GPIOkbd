@@ -8,8 +8,8 @@
 # This program must have root priviledge. This is fine if run from rc.local
 # but if you are testing use sudo python3 GPIOkbd.py
 
-# You must install uinport for this to work
-# sudo pip3 install python-uinport
+# You must install uinput for this to work
+# sudo pip3 install python-uinput
 # Help(ui) shows a list of the symbols that represent keyboard keys.
 
 # You can also define a button that causes system shutdown when pressed 
